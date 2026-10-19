@@ -1,0 +1,8 @@
+Circulo
+EjercicioDos
+FiguraRecta
+ejerciciodos.EjercicioDos
+FiguraPlana
+Figura2D
+FiguraCircular
+TrianguloRect
